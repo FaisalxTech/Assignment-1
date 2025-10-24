@@ -16,8 +16,3 @@ This program:
 - Prompts the user to enter their first and last names.
 - Concatenates the names to create a full name.
 - Prints a personalized greeting using the full name.
-
-## How to Run
-
-1. Copy and paste each program into a separate Python file (e.g., `math_operations.py`, `personalized_greeting.py`).
-2. Run each script using Python 3 in your terminal or IDE.
